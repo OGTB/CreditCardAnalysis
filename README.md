@@ -16,7 +16,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 
 ## Schema Diagram
 
-![Screenshot_1]
+![Screenshot_1](https://github.com/OGTB/CreditCardAnalysis/blob/main/schema.png)
 
 ## Database and Tools
 
